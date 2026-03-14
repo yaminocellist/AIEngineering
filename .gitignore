@@ -7,3 +7,10 @@
 *.exp
 *.pyd
 *.lib
+BERT/bert_output
+BERT/improved_bert
+BERT/improved_llm
+BERT/llm_output
+BERT/outputs
+BERT/unsloth_compiled_cache
+BERT/src/__pycache__
