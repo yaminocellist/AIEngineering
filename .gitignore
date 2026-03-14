@@ -14,3 +14,5 @@ BERT/llm_output
 BERT/outputs
 BERT/unsloth_compiled_cache
 BERT/src/__pycache__
+BERT/llama3_lora_model
+*.safetensors
