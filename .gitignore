@@ -16,3 +16,5 @@ BERT/unsloth_compiled_cache
 BERT/src/__pycache__
 BERT/llama3_lora_model
 *.safetensors
+Ministral/unsloth_compiled_cache
+Ministral/ministral_customer_service_lora
